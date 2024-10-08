@@ -1,2 +1,2 @@
 # web-stuff
-coming soon website with counter down
+very simple coming soon webpage with Countdown Timer in JS.
